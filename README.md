@@ -10,13 +10,13 @@ The pipeline ingests raw CSV files from Amazon S3, performs data quality checks 
 
 ## Architecture
 
-![Architecture Diagram](architecture/Architect flow.png)
+![Architecture Diagram](architecture/Architect_flow.png)
 
 ---
 
 ## Incremental Load Flow
 
-![Incremental Load Flow](architecture/Architect flow.png)
+![Incremental Load Flow](architecture/Main_flow.png)
 
 ---
 
