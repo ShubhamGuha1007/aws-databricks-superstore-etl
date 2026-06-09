@@ -1,0 +1,11 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Consumer,United States,Dallas,Texas,75001,Central,Furniture,Chairs,120.5,2,0,25.4
+Second Class,Corporate,United States,Austin,Texas,73301,Central,Technology,Phones,899.99,1,0.1,120
+First Class,Home Office,United States,Miami,Florida,33101,South,Office Supplies,Binders,45.75,5,0,12.3
+Standard Class,Consumer,United States,Seattle,Washington,98101,West,Technology,Accessories,210,3,0,55
+Second Class,Corporate,United States,Chicago,Illinois,60601,Central,Furniture,Tables,650,1,0.2,-45
+First Class,Consumer,United States,Boston,Massachusetts,2108,East,Office Supplies,Paper,18.9,10,0,6.5
+Standard Class,Home Office,United States,Phoenix,Arizona,85001,West,Technology,Copiers,1250,1,0,310
+Second Class,Consumer,United States,Denver,Colorado,80201,West,Furniture,Bookcases,340,2,0.15,48
+Standard Class,Corporate,United States,Atlanta,Georgia,30301,South,Office Supplies,Storage,78.6,4,0,14.2
+First Class,Consumer,United States,New York City,New York,10001,East,Technology,Machines,2200,1,0.05,420
